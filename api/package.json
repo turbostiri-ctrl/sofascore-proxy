@@ -1,0 +1,6 @@
+{
+  "name": "sofascore-proxy",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
